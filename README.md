@@ -1,5 +1,5 @@
 - 👋 Oii eu sou Juan Costa  😁
-- 🌱 Atualmente eu estou aprendendo Python e arquitetura em nuvem
+- 🌱 Em construção...
 - 📫 Você pode me encontar em: https://www.instagram.com/juancossta/
 
 <div>
