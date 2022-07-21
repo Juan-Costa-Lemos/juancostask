@@ -1,6 +1,7 @@
-- 👋 Oii eu sou Juan Costa  😁
+- 👋 Olá, eu sou o Juan Costa!  😁
 - 🌱 Em construção...
-- 📫 Você pode me encontar em: https://www.instagram.com/juancossta/
+- 📫 Você pode me encontar em: 
+https://www.linkedin.com/in/juan-costa-172366139/
 
 <div>
   <a href="https://github.com/juancostask">
